@@ -12,7 +12,7 @@ For support with Oak, please email srcc-support@stanford.edu.
 
 ## C4U Specific Oak Resources
 
-KIPAC currently owns 250TB on Oak.
+C4U currently owns 250TB on Oak.
 Please see the [OAK Group Usage Dashboard for C4U](https://srcc-lookout.stanford.edu/projects/p-c4u) for details on current disk usage.
 
 C4U project storage is mounted on Sherlock at `/oak/stanford/projects/c4u`.
